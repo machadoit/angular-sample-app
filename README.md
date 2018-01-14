@@ -1,5 +1,29 @@
 # MyDreamApp
 
+## My steps
+
+From https://cli.angular.io:
+
+ > npm install -g @angular/cli
+
+ > ng new my-dream-app
+
+ > cd my-dream-app
+ 
+ > ng serve 
+ 
+After the ng serve, the app will be available at `localhost:4200`
+
+## Files to check
+
+ > src/app/app.component.html
+
+ > src/app/app.component.spec.ts
+
+
+
+## CLI Auto README
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.4.
 
 ## Development server
