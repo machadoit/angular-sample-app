@@ -14,6 +14,8 @@ From https://cli.angular.io:
  
 After the ng serve, the app will be available at `localhost:4200`
 
+Btw, there is a nice place on how to do common stuff like adding bootstrap https://github.com/angular/angular-cli/wiki/stories
+
 ## Files to check
 
  > src/app/app.component.html
